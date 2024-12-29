@@ -31,7 +31,7 @@
 </p>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub İstatistikleri:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onuraydinoglu&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onuraydinoglu&theme=radical)
