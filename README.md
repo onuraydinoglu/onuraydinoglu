@@ -4,11 +4,7 @@
 - 🌐 **Backend**: **ASP.NET Core Web API** kullanıyorum.  
 - 🎨 **Frontend**: **React JS** kullanıyorum.  
 - 💅 **Tasarım Araçları**: **Bootstrap** ve **Tailwind CSS** ile çalışıyorum.
-
-<p>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="50" alt="Sallayan El" />
-</p>
-
+- 
 ---
 
 ## 🌐 Sosyal Medya
