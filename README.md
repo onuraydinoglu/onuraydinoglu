@@ -4,7 +4,7 @@
 - 🌐 **Backend**: **ASP.NET Core Web API** kullanıyorum.  
 - 🎨 **Frontend**: **React JS** kullanıyorum.  
 - 💅 **Tasarım Araçları**: **Bootstrap** ve **Tailwind CSS** ile çalışıyorum.
-- 
+
 ---
 
 ## 🌐 Sosyal Medya
