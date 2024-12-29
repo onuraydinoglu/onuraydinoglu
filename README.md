@@ -21,6 +21,16 @@
 
 ---
 
+## 📊 GitHub İstatistikleri
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onuraydinoglu&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onuraydinoglu&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onuraydinoglu&layout=compact&theme=radical)
+
+---
+
 ## 🌐 Sosyal Medya
 
 <p>
@@ -31,13 +41,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-
-## 📊 GitHub İstatistikleri
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onuraydinoglu&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onuraydinoglu&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onuraydinoglu&layout=compact&theme=radical)
