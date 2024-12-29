@@ -4,10 +4,12 @@
 - 🌐 **Backend**: **ASP.NET Core Web API** kullanıyorum.  
 - 🎨 **Frontend**: **React JS** kullanıyorum.  
 - 💅 **Tasarım Araçları**: **Bootstrap** ve **Tailwind CSS** ile çalışıyorum.
- 
+
+---
+
 ## 💼 Teknik Beceriler
 
-<table  border="0">
+<table border="0">
   <tr>
     <td>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -21,6 +23,7 @@
   </tr>
 </table>
 
+---
 
 ## 🌐 Sosyal Medya
 
@@ -28,10 +31,15 @@
   <a href="https://linkedin.com/in/onuraydinoglu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:onur.aydinoglu.98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
+---
 
-## 📊 GitHub İstatistikleri:
+## 📊 GitHub İstatistikleri
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onuraydinoglu&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onuraydinoglu&theme=radical)
@@ -39,3 +47,5 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onuraydinoglu&layout=compact&theme=radical)
 
 ---
+
+Teşekkürler! ✨
