@@ -1,9 +1,23 @@
-# 👋 Merhaba, Ben Muhammet Onur AYDINOĞLU
+# 👋 Merhaba, Ben [Onur](https://linkedin.com/in/onuraydinoglu)
 
 **Full-Stack Geliştirici**yim.  
 - 🌐 **Backend**: **ASP.NET Core Web API** kullanıyorum.  
 - 🎨 **Frontend**: **React JS** kullanıyorum.  
 - 💅 **Tasarım Araçları**: **Bootstrap** ve **Tailwind CSS** ile çalışıyorum.
+
+<p>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="50" alt="Sallayan El" />
+</p>
+
+---
+
+## 🌐 Sosyal Medya
+
+<p>
+  <a href="https://linkedin.com/in/onuraydinoglu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -28,16 +42,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onuraydinoglu&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onuraydinoglu&layout=compact&theme=radical)
-
----
-
-## 🌐 Sosyal Medya
-
-<p>
-  <a href="https://linkedin.com/in/onuraydinoglu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:onur.aydinoglu.98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
