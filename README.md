@@ -41,7 +41,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onuraydinoglu&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onuraydinoglu&layout=compact&theme=radical)
-
----
-
-Teşekkürler! ✨
